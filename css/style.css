@@ -63,6 +63,7 @@ table{
     margin-bottom: 30px;
     background-color: #b1e5f2;
     border-collapse: collapse;
+    table-layout: fixed;
     width: 100%;
 }
 
@@ -80,6 +81,7 @@ th, td {
 tr:nth-child(even) {
     background-color: white;
 }  
+
 footer{
     margin-left: 10px;
     margin-top: 15px;
