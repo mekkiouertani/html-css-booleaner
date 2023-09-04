@@ -20,7 +20,7 @@
 
 main{
     margin-left: 10px;
-    max-width: 60%;
+    width: 55%;
 }
 
 main h1{
@@ -57,3 +57,26 @@ p span{
 ul{
     margin-left: 15px;
 }
+
+table{
+    margin-top:30px;
+    margin-bottom: 30px;
+    background-color: #b1e5f2;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+    height: 50px;
+    color: white;
+    background-color: #20a9e5;
+}
+
+th, td {
+    text-align: left;
+    width: fit-content;
+}
+
+tr:nth-child(even) {
+    background-color: white;
+}  
