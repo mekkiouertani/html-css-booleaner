@@ -47,4 +47,13 @@ main h1{
 
 .title-photos p{
     font-style: italic;
+    font-size: 12px;
+}
+
+p span{
+    background-color: yellow;
+}
+
+ul{
+    margin-left: 15px;
 }
