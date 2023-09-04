@@ -20,12 +20,12 @@
 
 main{
     margin-left: 10px;
+    max-width: 60%;
 }
 
 main h1{
-    font-size: 60px;
+    font-size: 45px;
     line-height: 90%;
-
 }
 
 .author{
@@ -38,4 +38,13 @@ main h1{
 
 #theb{
     color: #46b7e9;
+}
+
+.title-photos{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.title-photos p{
+    font-style: italic;
 }
